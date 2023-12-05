@@ -8,7 +8,7 @@ These benchmarks varying in the dimension and range of the input space, the patt
 |---------------------------------------------------------------------| ------- |---------------------------------|----------------------------------|--------------------------------|----------------------------------|----------------------------------|------------------------------|----------------------------------|----------------|
 | range of the input space |only 2 dimension|any dimension|any dimensionn|any dimension|only 2 dimension|only 2 dimension|any dimension|only 2 dimension|any dimension|
 | dimension of the input space |[-4,4]<sup>2</sup>|[-10,10]<sup>d</sup>|[-50,50]<sup>d</sup>|[-500,500]<sup>d</sup>| [-10,10]<sup>2</sup>|[-50,50]<sup>2</sup>|[-10,10]<sup>d</sup>| [-20,20]<sup>2</sup>|[-50,50]<sup>d</sup>|
-| The lanscapes of Benhmarks <br/>under 2D input and 2 decision modes |![](.\\pictures\\Benchmark1.jpg) | ![](.\\pictures\\Benchmark2.jpg) | ![](.\\pictures\\Benchmark3.jpg) | ![](.\\pictures\\Benchmark4.jpg) | ![](.\\pictures\\Benchmark5.jpg) | ![](.\\pictures\\Benchmark6.jpg) | ![](.\\pictures\\Benchmark7.jpg) | ![](.\\pictures\\Benchmark8.jpg) |![](.\\pictures\\Benchmark9.jpg)
+| The lanscapes of Benhmarks <br/>under 2D input and 2 decision modes |![](https://github.com/Wangshiqi6/Benchmarks-for-boundary-identification/blob/main/pictures/Benchmark1.jpg) | ![](https://github.com/Wangshiqi6/Benchmarks-for-boundary-identification/blob/main/pictures/Benchmark2.jpg) | ![](https://github.com/Wangshiqi6/Benchmarks-for-boundary-identification/blob/main/pictures/Benchmark3.jpg) | ![](https://github.com/Wangshiqi6/Benchmarks-for-boundary-identification/blob/main/pictures/Benchmark4.jpg) | ![](https://github.com/Wangshiqi6/Benchmarks-for-boundary-identification/blob/main/pictures/Benchmark5.jpg) | ![](https://github.com/Wangshiqi6/Benchmarks-for-boundary-identification/blob/main/pictures/Benchmark6.jpg) | ![](https://github.com/Wangshiqi6/Benchmarks-for-boundary-identification/blob/main/pictures/Benchmark7.jpgg) | ![](https://github.com/Wangshiqi6/Benchmarks-for-boundary-identification/blob/main/pictures/Benchmark8.jpg) |![](https://github.com/Wangshiqi6/Benchmarks-for-boundary-identification/blob/main/pictures/Benchmark9.jpg)
 
 
 
@@ -26,13 +26,13 @@ In the following formula, *TB* and *b<sub>i</sub>* represent the set of true bou
 
 *  **Coverage**\
 The coverage metric measures the diversity of sampling, denoting the percentage of the true boundary points that have beeb sampled:\
-![](.\\pictures\\cov.png)
+![](https://github.com/Wangshiqi6/Benchmarks-for-boundary-identification/blob/main/pictures/cov.png)
 
 
 * **Precision**\
 The precision metric is the percentage of sample points within true boundary regions.\
-![](.\\pictures\\pre.png)
+![]([.\\pictures\\pre.png](https://github.com/Wangshiqi6/Benchmarks-for-boundary-identification/blob/main/pictures/pre.png))
 
 * **Efficiency**\
 The efficiency metric is the percentage of sample points within true boundary regions to the query number of the actual system.\
-![](.\\pictures\\eff.png)
+![](https://github.com/Wangshiqi6/Benchmarks-for-boundary-identification/blob/main/pictures/eff.png)
