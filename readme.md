@@ -33,6 +33,11 @@ The coverage metric measures the diversity of sampling, denoting the percentage 
 The precision metric is the percentage of sample points within true boundary regions.\
 ![](https://github.com/Wangshiqi6/Benchmarks-for-boundary-identification/blob/main/pictures/pre.png)
 
+
 * **Efficiency**\
 The efficiency metric is the percentage of sample points within true boundary regions to the query number of the actual system.\
 ![](https://github.com/Wangshiqi6/Benchmarks-for-boundary-identification/blob/main/pictures/eff.png)
+
+---
+## Team
+Team of Professor Lu Hui, School of Electronic and Information Engineering, Beihang University
